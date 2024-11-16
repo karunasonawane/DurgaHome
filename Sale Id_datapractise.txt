@@ -1,0 +1,31 @@
+Sale ID	Course Name	Category	Sales Date	Units Sold	Unit Price ($)	Total Revenue ($)	Salesperson	Region
+1	Data Analytics Basics	Data Analytics	2024-01-05	25	120	1800	John Smith	North America
+2	Python for Beginners	Programming	2024-01-10	15	100	1000	Alice Johnson	Europe
+3	Advanced Excel	Office Tools	2024-01-12	8	90	640	Robert White	Asia
+4	Web Development	Web Development	2024-01-15	12	15	1800	Sarah Brown	North America
+5	SQL Mastery	Database	2024-01-17	20	10	2200	David Harris	Europe
+6	Machine Learning Intro	AI & ML	2024-01-20	18	200	3600	Emma Wilson	North America
+7	Power BI for Data Viz	Data Visualization	2024-01-22	25	140	3500	Laura King	Europe
+8	Cybersecurity Essentials	IT Security	2024-01-24	14	180	2520	Michael Lee	Asia
+9	R for Data Science	Data Analytics	2024-01-27	22	130	2860	John Smith	North America
+10	Excel for Financials	Office Tools	2024-01-30	9	95	855	Alice Johnson	Europe
+11	Cloud Engineering	Cloud Computing	2024-02-01	16	210	3360	Robert White	Asia
+12	DevOps Fundamentals	DevOps	2024-02-04	21	190	3990	Sarah Brown	North America
+13	AWS Solutions Architect	Cloud Computing	2024-02-06	19	230	4370	David Harris	Europe
+14	Introduction to Java	Programming	2024-02-08	13	115	1495	Emma Wilson	Asia
+15	AI for Beginners	AI & ML	2024-02-10	17	250	4250	Laura King	North America
+16	Digital Marketing	Marketing	2024-02-12	12	160	1920	Michael Lee	Europe
+17	Full-Stack Development	Web Development	2024-02-15	14	220	3080	John Smith	North America
+18	HR Analytics	Business Analytics	2024-02-18	11	170	1870	Alice Johnson	Asia
+19	Tableau Data Viz	Data Visualization	2024-02-20	20	140	2800	Robert White	Europe
+20	Google Cloud Basics	Cloud Computing	2024-02-22	15	210	3150	Sarah Brown	Asia
+21	SQL for Data Engineers	Database	2024-02-24	18	110	1980	David Harris	North America
+22	Agile Project Management	Project Management	2024-02-26	14	180	2520	Emma Wilson	Europe
+23	Ethical Hacking Basics	IT Security	2024-02-28	16	240	3840	Laura King	Asia
+24	Power BI Advanced	Data Visualization	2024-03-01	17	140	2380	Michael Lee	North America
+25	Python for Data Science	Data Analytics	2024-03-03	22	130	2860	John Smith	Europe
+26	AI and Robotics	AI & ML	2024-03-05	19	250	4750	Alice Johnson	North America
+27	Data Science with R	Data Analytics	2024-03-07	24	130	3120	Robert White	Asia
+28	Excel VBA Programming	Office Tools	2024-03-09	13	85	1105	Sarah Brown	Europe
+29	JavaScript for Web Dev	Web Development	2024-03-12	12	150	1800	David Harris	Asia
+30	Advanced Python	Programming	2024-03-15	21	190	3990	Emma Wilson	North America
